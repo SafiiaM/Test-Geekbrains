@@ -1,9 +1,12 @@
-﻿// 17.
+﻿// 17.Напишите программу, которая принимает на вход координаті точки (Х и У), причем Х ≠ 0 и У ≠ 0 и выдает 
+// номер четверти плоскости, в которой находится эта точка.
 
-// Console.WriteLine("Введите координаты точки Х и У");
-// Console.Write("X: ");
-// int X = Convert.ToInt32(Console.ReadLine());
-// Console.
+
+Console.WriteLine("Введите координаты точки Х и У");
+Console.Write("x: ");
+int x = Convert.ToInt32(Console.ReadLine());
+Console.Write("y: ");
+int y = Convert.ToInt32(Console.ReadLine());
 // if (X > 0 && y > 0)
 // {
 //     Console.WriteLine("Первая четверть");
