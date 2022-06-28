@@ -1,0 +1,5 @@
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar3\Test-Geekbrains\Task17\obj\Debug\net6.0\Task17.csproj.AssemblyReference.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar3\Test-Geekbrains\Task17\obj\Debug\net6.0\Task17.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar3\Test-Geekbrains\Task17\obj\Debug\net6.0\Task17.AssemblyInfoInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar3\Test-Geekbrains\Task17\obj\Debug\net6.0\Task17.AssemblyInfo.cs
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar3\Test-Geekbrains\Task17\obj\Debug\net6.0\Task17.csproj.CoreCompileInputs.cache
